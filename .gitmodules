@@ -1,0 +1,6 @@
+[submodule "darknet"]
+	path = darknet
+	url = https://github.com/nnair12/darknet.git
+[submodule "deepsort"]
+	path = deepsort
+	url = https://github.com/nnair12/yolov4-deepsort.git
