@@ -9,4 +9,5 @@ This repository consists of two submodules, each with a different function. Goin
 ## Sources
 
 https://github.com/AlexeyAB/darknet
+
 https://github.com/theAIGuysCode/yolov4-deepsort
